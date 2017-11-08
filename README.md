@@ -16,6 +16,7 @@ $qr->render()
 ```
 ![Preview](example.jpg)
 
+
 ##You will also need
 [paper-css](https://github.com/cognitom/paper-css)
 For the A4 formating printable area.
