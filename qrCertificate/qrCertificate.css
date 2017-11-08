@@ -1,0 +1,60 @@
+/** Remove Padding from de A4 Page**/
+.sheet.padding-0mm { padding: 0mm }
+
+/** Set the background image to the same size of  the paper **/
+#qrCertificate-backgroundImg{
+	width:297mm;height:209mm
+}
+	
+
+#qrCertificate-acknowledge{
+	position: absolute;
+	font-size: 150%;
+    top: 65mm;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	width:230mm;
+	text-align: center;
+}
+
+
+#qrCertificate-name{
+	position: absolute;
+	font-size: 250%;
+	top: 78mm;
+	margin-left:
+	auto;margin-right: auto;
+	left: 0;
+	right: 0;
+	width:230mm;
+	text-align: center;
+}
+	
+#qrCertificate-achievement{
+	position: absolute;
+	font-size: 150%;
+    top: 100mm;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+	width:230mm;
+	text-align: center;
+}
+
+#qrCertificate-date{
+	position: absolute;
+	font-size: 250%;
+    top: 145mm;
+	right: 48mm;
+	text-align: center;
+}
+
+#qrCertificate-qr{
+	position: absolute;
+    top: 145mm;
+	left: 48mm;	
+	text-align: center;
+}
