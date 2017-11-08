@@ -1,12 +1,7 @@
 # Dynamic certificates with QR Code 
 Create dynamic course certificates. Render on A4 printable area. Print with QR Code to redirect to an url and validate the certificate.
 
-##You will also need
-[paper-css](https://github.com/cognitom/paper-css)
-For the A4 formating printable area.
 
-[phpqrcode](https://github.com/t0k4rt/phpqrcode)
-Generates the qrcode images 
 
 ## Example
 ```php
@@ -24,4 +19,10 @@ $qr->render()
 ```
 ![Preview](example.jpg)
 
+## You will also need
+[paper-css](https://github.com/cognitom/paper-css)
+For the A4 formating printable area.
+
+[phpqrcode](https://github.com/t0k4rt/phpqrcode)
+Generates the qrcode images 
 
